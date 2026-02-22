@@ -69,7 +69,7 @@
 //   });
 
 
-  const condition = true;
+ /*  const condition = true;
 
 const myPromise = new Promise((resolve, reject) => {
   if (condition) resolve("Success!");
@@ -85,4 +85,6 @@ async function myFunction() {
   }
 }
 
-myFunction();
+myFunction(); */
+
+console.log("Feature/Rukshan/JS_DOM");
